@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716012980178",
+    "project_id": "microsoftclubapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716012980178:android:bbe9f8f164123ad3",
+        "android_client_info": {
+          "package_name": "com.example.rishabh.microsoftclubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716012980178-njf9muos0tdmrq1ek8dpdkn9c4pv69l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rishabh.microsoftclubapp",
+            "certificate_hash": "5B0E3D54338372C07F20C59D769BCCFF0229FFDB"
+          }
+        },
+        {
+          "client_id": "716012980178-mvr6s0e8vuvje65fo5ps6qrs0kkfepvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWAGSvLer1kaC1h5JlUc_OlU-0gIZIfsw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
